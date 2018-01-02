@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "zewail-react client tools",
   "bin": {
-    "zewail-react": "./bin/zewail-react.js"
+    "zr": "./bin/zewail-react.js"
   },
   "author": "Chan Zewail",
   "license": "MIT",
