@@ -1,0 +1,19 @@
+{
+  "name": "zewail-react-cli",
+  "version": "1.0.0",
+  "description": "zewail-react client tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chan Zewail",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.12.2",
+    "download-git-repo": "^1.0.1",
+    "inquirer": "^4.0.1",
+    "ora": "^1.3.0",
+    "shelljs": "^0.7.8"
+  }
+}

@@ -1,0 +1,1 @@
+module.exports = require('./bin/zewail-react.js')
