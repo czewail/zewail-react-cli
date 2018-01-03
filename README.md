@@ -14,12 +14,12 @@ zr init --no-install
 ```
 然后自行执行 `cnpm install` 安装依赖
 
-## 创建模板文件
+## 创建模板文件
 ```bash
 zr new
 ```
 
-### Component
+### Component
 选择 `component` 来创建独立组件模板，可创建三种不同的模板：
 - `normal`：普通的React组件模板，只包含基础的 `render` 方法
 - `full`：完整的React组件模板，包含组件所有生命周期方法
