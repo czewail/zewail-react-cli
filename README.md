@@ -26,7 +26,7 @@ zr new
 - `stateless`：函数式组件模板
 
 ### Container
-选择 `container` 来创建页面容器模板，可创建两种种不同的模板：
+选择 `container` 来创建页面容器模板，可创建两种不同的模板：
 - `normal`：普通的React组件模板，只包含基础的 `render` 方法
 - `full`：完整的React组件模板，包含组件所有生命周期方法
 
