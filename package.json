@@ -1,6 +1,6 @@
 {
   "name": "zewail-react-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "zewail-react client tools",
   "bin": {
     "zr": "./bin/zewail-react.js"
